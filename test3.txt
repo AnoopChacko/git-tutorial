@@ -1,1 +1,2 @@
-To create merge conflict
+To resolve merge conflict
+edited before second one
