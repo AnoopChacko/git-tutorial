@@ -1,0 +1,2 @@
+To create merge conflict
+edited before second one
